@@ -1,0 +1,56 @@
+/* Custom Stylesheet */
+/**
+ * Use this file to override Materialize files so you can update
+ * the core Materialize files in the future
+ *
+ * Made By MaterializeCSS.com
+ */
+.all{
+  font-family: 'Poppins', sans-serif;
+}
+.icon-block {
+  padding: 0 15px;
+}
+.icon-block .material-icons {
+	font-size: inherit;
+}
+.white {
+  color: #ffffff !important;
+}
+
+.LightBlue {
+  color: #a5ffd6 !important;
+}
+
+.DarkBlue {
+  color: #84dcc6 !important;
+}
+
+.LightPink {
+  color: #ffa69e !important;
+}
+
+.DarkPink {
+  color: #ff686b !important;
+}
+
+.DarkGrey {
+  color: #484041 !important;
+}
+
+.CC{
+  padding-left: 35px
+}
+
+.JWT{
+  padding-left: 50px
+}
+
+.UTM{
+  padding-left: 45px
+}
+
+.LogoImage{
+  height: 300px;
+  width: 300px;
+}
